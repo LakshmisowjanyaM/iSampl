@@ -1,0 +1,5 @@
+
+POST http://localhost:4004/i-sampl/product HTTP/1.1
+Content-Type: application/json
+
+{"ProductName":"CoffeePowder","Quantity":5,"Availability":false}
